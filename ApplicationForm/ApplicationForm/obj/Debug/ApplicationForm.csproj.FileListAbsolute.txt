@@ -1,0 +1,10 @@
+C:\Users\gorke\Desktop\ASP.NET CORE\ApplicationForm\ApplicationForm\bin\Debug\ApplicationForm.exe.config
+C:\Users\gorke\Desktop\ASP.NET CORE\ApplicationForm\ApplicationForm\bin\Debug\ApplicationForm.exe
+C:\Users\gorke\Desktop\ASP.NET CORE\ApplicationForm\ApplicationForm\bin\Debug\ApplicationForm.pdb
+C:\Users\gorke\Desktop\ASP.NET CORE\ApplicationForm\ApplicationForm\obj\Debug\ApplicationForm.csproj.AssemblyReference.cache
+C:\Users\gorke\Desktop\ASP.NET CORE\ApplicationForm\ApplicationForm\obj\Debug\ApplicationForm.Form1.resources
+C:\Users\gorke\Desktop\ASP.NET CORE\ApplicationForm\ApplicationForm\obj\Debug\ApplicationForm.Properties.Resources.resources
+C:\Users\gorke\Desktop\ASP.NET CORE\ApplicationForm\ApplicationForm\obj\Debug\ApplicationForm.csproj.GenerateResource.cache
+C:\Users\gorke\Desktop\ASP.NET CORE\ApplicationForm\ApplicationForm\obj\Debug\ApplicationForm.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Desktop\ASP.NET CORE\ApplicationForm\ApplicationForm\obj\Debug\ApplicationForm.exe
+C:\Users\gorke\Desktop\ASP.NET CORE\ApplicationForm\ApplicationForm\obj\Debug\ApplicationForm.pdb
