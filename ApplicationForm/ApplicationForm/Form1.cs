@@ -81,7 +81,7 @@ namespace ApplicationForm
 
 
             // PROJEMİZ İÇİNDEKİ METİN BELGESİNİN DOSYA YOLU
-            string file_way = @"C:\Users\gorke\Desktop\ASP.NET CORE\ApplicationForm\ApplicationForm\saved_list.txt";
+            string file_way = @"C:\ApplicationForm\saved_list.txt";
 
             using (StreamWriter sw = new StreamWriter(file_way, true)) // true ile dosyaya ekleme yapar.
             {

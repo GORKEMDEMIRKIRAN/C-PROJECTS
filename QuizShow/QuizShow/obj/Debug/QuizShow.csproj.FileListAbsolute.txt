@@ -1,0 +1,10 @@
+C:\Users\gorke\Desktop\ASP.NET CORE\QuizShow\QuizShow\bin\Debug\QuizShow.exe.config
+C:\Users\gorke\Desktop\ASP.NET CORE\QuizShow\QuizShow\bin\Debug\QuizShow.exe
+C:\Users\gorke\Desktop\ASP.NET CORE\QuizShow\QuizShow\bin\Debug\QuizShow.pdb
+C:\Users\gorke\Desktop\ASP.NET CORE\QuizShow\QuizShow\obj\Debug\QuizShow.csproj.AssemblyReference.cache
+C:\Users\gorke\Desktop\ASP.NET CORE\QuizShow\QuizShow\obj\Debug\QuizShow.Form1.resources
+C:\Users\gorke\Desktop\ASP.NET CORE\QuizShow\QuizShow\obj\Debug\QuizShow.Properties.Resources.resources
+C:\Users\gorke\Desktop\ASP.NET CORE\QuizShow\QuizShow\obj\Debug\QuizShow.csproj.GenerateResource.cache
+C:\Users\gorke\Desktop\ASP.NET CORE\QuizShow\QuizShow\obj\Debug\QuizShow.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Desktop\ASP.NET CORE\QuizShow\QuizShow\obj\Debug\QuizShow.exe
+C:\Users\gorke\Desktop\ASP.NET CORE\QuizShow\QuizShow\obj\Debug\QuizShow.pdb
